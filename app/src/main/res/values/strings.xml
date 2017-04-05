@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">2维展示</string>
+    <string name="setlocation">记录位置</string>
+    <string name="surelocation">确定</string>
 </resources>
